@@ -1,4 +1,3 @@
-# Garment-Productivity-Prediction-and-Optimization
 # 📊 Garment Factory Productivity Prediction and Optimization
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
