@@ -63,5 +63,6 @@ This project investigates productivity patterns in a garment manufacturing facto
 - Use department-specific models instead of generalized ones to ensure better accuracy and actionable insights.
 
 ## Contributors
+- Meedum Keerthisiri
 - Samudika Wanasinghe
 - Pasindu Gamage
